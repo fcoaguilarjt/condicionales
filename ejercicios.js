@@ -214,7 +214,7 @@ let descuento;
 
 if (programa == "course")
 {
-    if (beca == "cacebook")
+    if (beca == "facebook")
     {
         descuento = course * becaFace;
         costoTotal = descuento * 2;
